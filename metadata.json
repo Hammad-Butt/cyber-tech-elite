@@ -1,0 +1,8 @@
+{
+  "name": "CYBER-TECH Elite",
+  "description": "A high-end, dark-themed tech e-commerce experience with 3D animations, powered by Gemini AI for personalized tech recommendations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
